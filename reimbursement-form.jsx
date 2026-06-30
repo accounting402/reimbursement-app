@@ -1,7 +1,7 @@
 import React, { useState, useRef } from "react";
 
 // PASTE YOUR APPS SCRIPT WEB APP URL HERE after deploying the .gs file
-const ENDPOINT = "https://script.google.com/macros/s/AKfycbxMX8qG4G-1K6jIqBfsHczetNZuHpuNl3GoOiArkrb0iJff0Lt_-cB5yD8Bre3ZG-8O/exec";
+const ENDPOINT = "https://script.google.com/macros/s/AKfycbzGU918DMhvC_Qg4d4C7BgHkI79J_kC7wo8a1YATzrsN9q9NChQ410JuADtif_RsrLVAQ/exec";
 
 const DEPARTEMENTS = ["Digital", "Content", "Website", "Admin", "Lainnya"];
 
